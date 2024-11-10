@@ -1,6 +1,6 @@
 # `gapp`
 
-Welcome to your new `gapp` project and to the Internet Computer development community. This a grading APP dedveloped using ICP.
+Welcome to your new `gapp` project and to the Internet Computer development community. This is a grading APP dedveloped using ICP involving backend language Motoko and Frontend langauge ReactJS.
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
