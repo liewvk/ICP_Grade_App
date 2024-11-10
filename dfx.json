@@ -1,0 +1,23 @@
+{
+  "canisters": {
+    "gapp_backend": {
+      "type": "motoko",
+      "main": "src/gapp_backend/main.mo"
+    },
+    "gapp_frontend": {
+      "type": "assets",
+      "source": ["src/gapp_frontend/dist"]
+    }
+  },
+  "networks": {
+    "local": {
+      "bind": "127.0.0.1:4943"
+    }
+  },
+  "version": 1
+}
+
+
+
+
+
